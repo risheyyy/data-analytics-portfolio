@@ -1,0 +1,5 @@
+leetcode_1_select.sql
+-- problem: select first 10 rows from a table (placeholder)
+SELECT * 
+FROM employees
+LIMIT 10;
